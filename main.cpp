@@ -1,5 +1,8 @@
 #include <iostream>
 #include <vector>
+#include <stdexcept>
+#include <limits>
+
 
 class Vector2D {
 public:
